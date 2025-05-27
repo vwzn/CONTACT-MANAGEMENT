@@ -111,7 +111,7 @@ Before you begin, ensure you have the following installed:
    npm install
    
    # Frontend dependencies
-   cd ../frontend
+   cd frontend
    npm install
    ```
 
