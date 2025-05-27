@@ -134,7 +134,7 @@ Before you begin, ensure you have the following installed:
    ```bash
    # Start backend server
    cd backend
-   npm start
+   node src/main.js
    
    # In a new terminal, start frontend
    cd frontend
